@@ -146,9 +146,6 @@ DATA PHANTOMS:
 
 **Advisor:** Dr. Ahmad Hakiim bin Jamaluddin, Department of Mathematics and Statistics, Universiti Putra Malaysia.
 
-### My contribution
-
-Based on the work described in my resume, my contributions included data cleaning and integration, feature engineering (including bed-utilisation measures, moving averages and lag variables), exploratory analysis, and Power BI dashboard development. Confirm that this accurately reflects your individual work before publishing the repository.
 
 ## Repository structure
 
